@@ -18,4 +18,4 @@ https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c9111
 All content(images, texts, icons, and all others) is provided by frontendmentor.
  
   
-//Here's where you can try it out: https://app.netlify.com/sites/comfy-figolla-d03670/overview
+//Here's where you can try it out: https://comfy-figolla-d03670.netlify.app/
