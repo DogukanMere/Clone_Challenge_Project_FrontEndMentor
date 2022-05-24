@@ -263,13 +263,6 @@ p {
   margin-top: 1rem;
 }
 
-@media (max-width: 650px) {
-  #under-screen--text {
-    width: 85%;
-    margin: auto;
-  }
-}
-
 /* FEATURES */
 
 #features {
@@ -551,6 +544,12 @@ p {
     width: 85%;
     margin: auto;
     transform: scale(0.8);
+  }
+
+  /* UNDER SCREEN TEXT */
+  #under-screen--text {
+    width: 85%;
+    margin: auto;
   }
 
   #footer {
