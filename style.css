@@ -214,47 +214,6 @@ p {
   font-weight: var(--fw-bold);
 }
 
-@media (max-width: 650px) {
-  #screen-text {
-    width: 85%;
-    margin: auto;
-    flex-direction: column;
-  }
-
-  .img-screen {
-    width: 100%;
-    margin: auto;
-    min-height: 150px;
-    margin-top: 2rem;
-  }
-
-  .img-computer {
-    display: flex;
-    position: static;
-    width: 85%;
-    margin: auto;
-    min-width: 200px;
-    max-width: 350px;
-    justify-content: center;
-  }
-
-  .img-text {
-    display: block;
-    width: 100%;
-    margin: auto;
-    margin-top: 5rem;
-    text-align: center;
-  }
-
-  .textflex {
-    min-width: 85%;
-    display: flex;
-    flex-direction: column;
-    padding: 1.2rem 0rem;
-    margin: auto;
-  }
-}
-
 /* UNDER IMAGE TEXT-2 */
 
 #under-img--text2 {
@@ -272,14 +231,6 @@ p {
   margin-top: 1rem;
 }
 
-@media (max-width: 650px) {
-  #under-img--text2 {
-    width: 80%;
-    margin: auto;
-    padding: 2rem 0rem;
-  }
-}
-
 /* SCREEN IMG */
 
 #screen-img {
@@ -293,14 +244,6 @@ p {
   width: 60%;
   min-width: 400px;
   max-width: 600px;
-}
-
-@media (max-width: 650px) {
-  #screen-img {
-    width: 85%;
-    margin: auto;
-    transform: scale(0.8);
-  }
 }
 
 /* UNDER SCREEN TEXT */
@@ -556,7 +499,60 @@ p {
     margin-top: 3rem;
   }
 
-  /*  */
+  /* SCREEN & TEXT */
+  #screen-text {
+    width: 85%;
+    margin: auto;
+    flex-direction: column;
+  }
+
+  .img-screen {
+    width: 100%;
+    margin: auto;
+    min-height: 150px;
+    margin-top: 2rem;
+  }
+
+  .img-computer {
+    display: flex;
+    position: static;
+    width: 85%;
+    margin: auto;
+    min-width: 200px;
+    max-width: 350px;
+    justify-content: center;
+  }
+
+  .img-text {
+    display: block;
+    width: 100%;
+    margin: auto;
+    margin-top: 5rem;
+    text-align: center;
+  }
+
+  .textflex {
+    min-width: 85%;
+    display: flex;
+    flex-direction: column;
+    padding: 1.2rem 0rem;
+    margin: auto;
+  }
+
+  /* UNDER IMG TEXT */
+  #under-img--text2 {
+    width: 80%;
+    margin: auto;
+    padding: 2rem 0rem;
+  }
+
+  /* SCREEN IMG */
+  #screen-img {
+    width: 85%;
+    margin: auto;
+    transform: scale(0.8);
+  }
+
   #footer {
     flex-direction: column;
     width: 100%;
