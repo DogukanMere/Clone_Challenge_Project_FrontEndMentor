@@ -304,16 +304,6 @@ p {
   margin-top: 0.5em;
 }
 
-@media (max-width: 650px) {
-  #features {
-    flex-direction: column;
-  }
-
-  .icon-mobile {
-    margin-top: 3rem;
-  }
-}
-
 /* SUPPORT */
 
 #support {
@@ -335,8 +325,6 @@ p {
   margin: auto;
   min-width: 75px;
 }
-
-@media (max-width: 650px) {}
 
 /* UNDER SUPPORT */
 
@@ -374,8 +362,6 @@ p {
 .buttons-2 a:last-child {
   background: #4951c7;
 }
-
-@media (max-width: 650px) {}
 
 /* FOOTER */
 #footer {
@@ -530,6 +516,15 @@ p {
   #under-screen--text {
     width: 85%;
     margin: auto;
+  }
+
+  /* FEATURES */
+  #features {
+    flex-direction: column;
+  }
+
+  .icon-mobile {
+    margin-top: 3rem;
   }
 
   /* SUPPORT */
