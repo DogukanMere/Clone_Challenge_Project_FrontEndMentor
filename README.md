@@ -6,7 +6,8 @@ I never touched the project after I finished it because I wanted to see how far 
 
 The inspiration for this project came from https://www.frontendmentor.io.
 
-This project is one of the frontendmentor website's imitation challenges.
+> frontendmentor
+> This project is one of the frontendmentor website's imitation challenges.
 
 The challenge's original URL is:
 https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9
