@@ -2,7 +2,7 @@
 
 ##### JUNIOR LEVEL PROJECT
 
-- I never touched the project after I finished it because I wanted to see how far I had progressed in comparison to current ones.
+- I never touched the project after I finished it because I wanted to see how far I had progressed in comparison to current ones..
 
 - The inspiration for this project came from https://www.frontendmentor.io.
 
